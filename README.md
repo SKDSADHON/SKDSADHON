@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sadhon Kumar Dey
 #### Web Developer
-![Web Developer](https://pbs.twimg.com/profile_banners/1703295301870919680/1694932485/1080x360)
+![Web Developer](https://pbs.twimg.com/media/F6OCQhKboAA4hWU?format=webp&name=small)
 
 I am focusing my skill..🧑‍🦱👩‍🎓
 
