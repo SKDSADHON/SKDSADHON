@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Sadhon Kumar Dey
 #### Web Developer
-[(https://document-export.canva.com/0WSeU/DAFure0WSeU/11/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20230916%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230916T133448Z&X-Amz-Expires=68482&X-Amz-Signature=244c8caaac564d1eaa5be531dd96e8cd8f1abd6015d03ec662339f7b42b9b177&X-Amz-SignedHeaders=host&response-expires=Sun%2C%2017%20Sep%202023%2008%3A36%3A10%20GMT)](https://pbs.twimg.com/profile_banners/1703295301870919680/1694932485/1080x360)
+https://pbs.twimg.com/profile_banners/1703295301870919680/1694932485/1080x360
 
 I am focusing my skill..🧑‍🦱👩‍🎓
 
