@@ -4,7 +4,7 @@
 
 I am focusing my skill..🧑‍🦱👩‍🎓
 
-Skills:  JS / HTML / CSS/
+Skills:  JS / HTML / CSS/PHP
 
 - 🔭 I’m currently working on Skill Development 
 - 🌱 I’m currently learning JavaScript 
